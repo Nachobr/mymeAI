@@ -130,3 +130,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Miniconda3-latest-MacOSX-x86_64.sh
+telegramapikey.txt
+S1_DatasetCollectors/telegram/config.ini
+S1_DatasetCollectors/telegram/datasetstg/tgpohen.csv
+S1_DatasetCollectors/telegram/datasetstg/tgyub.csv
+S1_DatasetCollectors/telegram/datasetstg/tgyubfounders.csv
+S1_DatasetCollectors/telegram/datasetstg/tgyubprocessed_data.csv
