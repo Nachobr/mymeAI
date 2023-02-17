@@ -5,6 +5,7 @@ __pycache__/
 .env
 .csv
 .session
+*.ini
 .ini
 # C extensions
 *.so
