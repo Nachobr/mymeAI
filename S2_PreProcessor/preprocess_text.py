@@ -38,7 +38,7 @@ def preprocess_text(text):
 processed_texts = [preprocess_text(text) for text in texts]
 
 # Save the processed text data to a new CSV file
-with open('../S1_DatasetCollectors/telegram/datasetstg/tgyubprocessed_data.csv', 'w', encoding='utf-8', newline='') as csvfile:
+with open('../S1_DatasetCollectors/telegram/datasetstg/preprocessed/tgyubprocessed_data.csv', 'w', encoding='utf-8', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['processed_text']) # write header row
     for text in processed_texts:

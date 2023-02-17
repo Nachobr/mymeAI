@@ -6,6 +6,10 @@ __pycache__/
 .csv
 .session
 .ini
+S1_DatasetCollectors/telegram/datasetstg
+S1_DatasetCollectors/slack/datasetstg
+S1_DatasetCollectors/discord/datasetstg
+S1_DatasetCollectors/twitter/datasetstg
 # C extensions
 *.so
 
@@ -137,3 +141,4 @@ S1_DatasetCollectors/telegram/datasetstg/tgpohen.csv
 S1_DatasetCollectors/telegram/datasetstg/tgyub.csv
 S1_DatasetCollectors/telegram/datasetstg/tgyubfounders.csv
 S1_DatasetCollectors/telegram/datasetstg/tgyubprocessed_data.csv
+S1_DatasetCollectors/telegram/datasetstg/preprocessed/tgyubprocessed_data.csv
