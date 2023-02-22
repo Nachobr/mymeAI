@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .env
 .csv
+*.csv
 .session
 *.ini
 .ini
@@ -143,3 +144,4 @@ S1_DatasetCollectors/telegram/datasetstg/tgyub.csv
 S1_DatasetCollectors/telegram/datasetstg/tgyubfounders.csv
 S1_DatasetCollectors/telegram/datasetstg/tgyubprocessed_data.csv
 S1_DatasetCollectors/telegram/datasetstg/preprocessed/tgyubprocessed_data.csv
+S2_PreProcessor/tgpohenprocessed_updated_data.csv
